@@ -4,7 +4,7 @@ export default function Home() {
       <p className="mt-12 mb-12 text-3xl text-center dark:text-white">
         Hi there, &nbsp;
         <span className="whitespace-nowrap">
-          I am <span className="font-bold">Irfan</span>
+          I'm <span className="font-bold">Irfan</span>
         </span>
       </p>
     </main>
